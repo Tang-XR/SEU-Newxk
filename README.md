@@ -2,7 +2,7 @@
 SEU新选课系统脚本
 适用于2018级以后的选课系统 http://newxk.urp.seu.edu.cn/
 
-**仅供辅助东南大学学生选课之用，严禁任何商业用途**
+**仅供学习交流使用，严禁任何商业用途**
 
 基于https://github.com/AriaPokotengYe/SEU-NewSystem-catcher 修改
 
