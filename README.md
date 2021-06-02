@@ -2,6 +2,8 @@
 SEU新选课系统脚本
 适用于2018级以后的选课系统 http://newxk.urp.seu.edu.cn/
 
+**仅供辅助东南大学学生选课之用，严禁任何商业用途**
+
 基于https://github.com/AriaPokotengYe/SEU-NewSystem-catcher 修改
 
 基于个人理解对相关功能进行了封装（仅对推荐选课和体育课相关功能），同时添加了退课相关接口
